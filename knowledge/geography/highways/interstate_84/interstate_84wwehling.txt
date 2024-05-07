@@ -1,0 +1,18 @@
+created_by: wendywehling21
+domain: geography
+seed_examples:
+- answer: |
+	Highway 41
+  question: What is the major highway in Wisconsin?
+- answer: |
+	Pikes Peak
+  question: What is the highest point in Colorado?
+- answer: |
+	The Bean
+  question: What is the large silver statue in Chicago called?
+task_description: ' '
+document: 
+ repo: https://github.com/juliadenham/Summit_knowledge
+ commit: b64b448263e244f2083ea7b8cbfdb07b32bcb542
+ patterns:
+   - interstate_84.md
